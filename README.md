@@ -1,24 +1,37 @@
-# Hi, I'm Thomas Berghold-Wieser
+# Hi, I'm Thomas Berghold-Wieser 👋
 
 **Senior Software Developer**  
 .NET Core | C# | ASP.NET Core | SQL Server | Playwright | Requirements Engineering
 
----
-
-I specialize in building robust, maintainable software using C# and the .NET ecosystem. My approach centers on use case-driven methodologies and fluent syntax libraries, with a strong focus on clear requirements and automated testing.
-
-- Passionate about continuous learning and staying relevant in the age of AI.
-- Advocate for using the right tool for the job—especially when it’s already built into .NET.
-- Creator of a use case-based library inspired by MediatR.
+Currently navigating the AI revolution by continuously learning and adapting modern development practices.
 
 ---
 
-**Outside of coding:**
-- 🏃‍♂️ Avid runner
-- 👨‍👧‍👦 Proud dad of two (my true focus)
-- 📚 Sci-fi & horror novel fan (bonus points for both!)
-- 🎶 Make music with Ableton
+## What I Do
+
+I build robust, maintainable software using **C#**, **.NET Core**, **ASP.NET Core**, and **SQL Server**. My approach focuses on:
+
+- 🎯 Use case-driven methodologies and clean architecture
+- ✨ Fluent syntax libraries and expressive code
+- 🧪 Comprehensive testing with **Playwright**
+- 📋 Thorough requirements engineering
 
 ---
 
-> “The best NuGet package is the one you don’t need.”
+## Philosophy
+
+> *"The best NuGet package is the one you don't need."*
+
+I believe in leveraging what's already built into .NET before adding dependencies. When MediatR went commercial, I decided to finally build my own use case-based library instead, inspired by MediatR and combining the functional approach of my previous library, FunctionalProcessing.
+
+---
+
+## When I'm Not Coding
+- 🏃‍♂️ Running trails and streets
+- 👨‍👧‍👦 Being dad to two amazing kids (my real full-time job)
+- 📚 Reading sci-fi horror novels (the weirder, the better)
+- 🎵 Creating music in Ableton Live
+
+---
+
+*Always open to discussing .NET architecture, testing strategies, or book recommendations!*
