@@ -9,7 +9,7 @@ Currently navigating the AI revolution by continuously learning and adapting mod
 
 ## What I Do
 
-I build robust, maintainable software using **C#**, **.NET Core**, **ASP.NET Core**, and **SQL Server**. My approach focuses on:
+I build robust, maintainable software using the Microsoft **.NET** tech stack. My approach focuses on:
 
 - 🎯 Use case-driven methodologies and clean architecture
 - ✨ Fluent syntax libraries and expressive code
