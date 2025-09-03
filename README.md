@@ -34,4 +34,4 @@ I believe in leveraging what's already built into .NET before adding dependencie
 
 ---
 
-*Always open to discussing .NET architecture, testing strategies, or book recommendations!*
+*Always open to discussing .NET architecture, testing strategies, or book recommendations! This page has been created with AI, because i'm too lazy to write all this out by hand.*
