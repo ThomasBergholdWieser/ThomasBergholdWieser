@@ -11,10 +11,10 @@ Currently navigating the AI revolution by continuously learning and adapting mod
 
 I build robust, maintainable software using the Microsoft **.NET** tech stack. My approach focuses on:
 
-- 🎯 Use case-driven methodologies and clean architecture
-- ✨ Fluent syntax libraries and expressive code
-- 🧪 Comprehensive testing with **Playwright**
-- 📋 Thorough requirements engineering
+- Use case-driven methodologies and clean architecture
+- Fluent syntax libraries and expressive code
+- Comprehensive testing with **Playwright**
+- Thorough requirements engineering
 
 ---
 
@@ -27,11 +27,9 @@ I believe in leveraging what's already built into .NET before adding dependencie
 ---
 
 ## When I'm Not Coding
-- 🏃‍♂️ Running trails and streets
-- 👨‍👧‍👦 Being dad to two amazing kids (my real full-time job)
-- 📚 Reading sci-fi horror novels (the weirder, the better)
-- 🎵 Creating music in Ableton Live
+- Running trails and streets
+- Being dad to two amazing kids (my real full-time job)
 
 ---
 
-*Always open to discussing .NET architecture, testing strategies, or book recommendations! This page has been created with AI, because i'm too lazy to write all this out by hand.*
+*Always open to discussing .NET architecture, testing strategies, or book recommendations! This incredibly cringy page has been created with AI, because i'm too lazy to write all this out by hand and you are too lazy to read it anyway.*
